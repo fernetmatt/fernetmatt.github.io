@@ -1,0 +1,29 @@
+title: fernetmatt
+author: Matt
+subtitle: The life of a irreverent software engineer
+
+url: "https://fernetmatt.github.io"
+baseurl: ""
+
+exclude:
+  - shell.nix
+
+footer_only_homepage: false
+footer_url: "https://fernetmatt.github.io"
+footer_text: "fernetmatt personal website"
+
+profile-picture: assets/profile.png
+favicon_location: assets/favicon.ico
+
+permalink: /:year-:month-:day-:title/
+sass:
+  style: compressed
+  sass_dir: css
+
+navbar:
+  - name: "About"
+    link: ""
+  - name: "Blog"
+    link: "blog"
+  - name: "Resume"
+    absolute-link: "https://fernetmatt.github.io/resume.pdf"
