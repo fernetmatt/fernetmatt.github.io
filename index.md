@@ -18,7 +18,7 @@ Recently, I’ve been redesigning, refactoring, and porting C++ software to Go, 
 
 I’ve also worked with languages like Rust, Python, NodeJS, and PHP to solve specialized problems effectively. I’m also well-versed in other key components of the tech stack, including databases, message brokers, and network protocols.
 
-Throughout my career, I’ve had the pleasure of working on many projects: from embedded arm64 firmware for edge computing to Python software for NLP inference, distributed storage networks, RESTful APIs, Linux kernel patches, blockchain smart contract, and homelab setups that broadened my devops expertise and toolset.
+Throughout my career, I’ve had the pleasure of working on many projects: from embedded arm64 firmware for edge computing to Python software for nlp, distributed storage networks, RESTful APIs, smart contract, and homelab setups that broadened my devops expertise and toolset.
 
 I’ve also led a team of 5+ team members, across various roles and experience levels.
 
